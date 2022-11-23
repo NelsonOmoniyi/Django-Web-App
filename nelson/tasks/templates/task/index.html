@@ -15,7 +15,9 @@
     <body>
         
         <ul>
-            <li>Nelson</li>
+            {% for task in tasks %}
+                <li>{{ task }}</li>
+            {% endfor %}
         </ul>
         
         <script src="" async defer></script>
