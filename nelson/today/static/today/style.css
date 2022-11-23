@@ -1,0 +1,11 @@
+h1{
+    color: green;
+    font-weight: bold;
+    font-size: 100px;
+    text-align: center;
+    text-decoration: dotted;
+    font-family: sans-serif;
+}
+body{
+    background-color: black;
+}
